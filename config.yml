@@ -1,0 +1,16 @@
+database:
+  file: "products.db"
+  sql-user: "root"
+  sql-pass: "password"
+  sql-server: "127.0.0.1"
+  sql-database: "Products"
+  sql-port: 3306
+
+redis:
+  server: "localhost:6379"
+
+sso:
+  clientId: "StudentPortal"
+  clientSecret: "EM4WKTSRUXVWG5RBTXC3VPOBTMF5Y3SL"
+  baseAddress: "https://localhost:44375/"
+  backBaseAddress: "https://localhost:8080/"

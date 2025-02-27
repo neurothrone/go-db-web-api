@@ -27,3 +27,6 @@ go.work.sum
 # Editor directories and files
 .idea/
 .vscode/
+
+# SQLite database file
+*.db
